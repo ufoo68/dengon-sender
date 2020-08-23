@@ -1,8 +1,3 @@
-React Hooks Todo App
-===========================
+# DENGONBAN
 
-Todo apps are old news in the world of programming, so it's easy to grok what's happening when one is built with new technology. That was the focus with this very basic implementation using stateless React components and React's Hooks API, released in React v16.8
-
-
-By [Gaege Root Consulting](https://gaegeroot.consulting/)
--------------------
+![img](https://cdn.glitch.com/5b0a0735-51a6-4d80-87ee-96f9742536a2%2Flogo.png?v=1596328263606)
